@@ -1,6 +1,6 @@
 # Olá, eu sou Wesley 👋
 
-Sou estudante de Engenharia de Software e apaixonado por desenvolvimento web e mobile. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Aqui você encontrará alguns dos projetos que desenvolvi durante minha jornada. 😄
+Sou estudante de Engenharia de Software com foco em desenvolvimento web e mobile. Minha jornada tem sido marcada pela busca constante de novas tecnologias e pelo aprimoramento de habilidades práticas, refletidos em projetos desenvolvidos ao longo desse percurso. Acredito na inovação como motor de transformação e estou comprometido em criar soluções eficientes e impactantes.
 
 ## Tecnologias que estou estudando
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -8,8 +8,10 @@ Sou estudante de Engenharia de Software e apaixonado por desenvolvimento web e m
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ## O que pretendo aprender no futuro
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
